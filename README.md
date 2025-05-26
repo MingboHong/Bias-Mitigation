@@ -10,7 +10,7 @@
 ## Papers
 
 ### Survey
-### Image Classification
-### Remote Sensing
-### Object Detection
-### Segmentation
+### Fairness
+### Domain/Dataset
+### Shortcut Learning
+### Label Noise
