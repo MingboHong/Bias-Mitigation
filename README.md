@@ -11,9 +11,15 @@
 
 ### Survey
 ### Fairness
-FairRAG: Fair Human Generation via Fair Retrieval Augmentation CVPR2024 [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Shrestha_FairRAG_Fair_Human_Generation_via_Fair_Retrieval_Augmentation_CVPR_2024_paper.pdf)
+Constructing Fair Latent Space for Intersection of Fairness and Explainability AAAI 2025 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32436)
+
+FairCoT: Enhancing Fairness in Text-to-Image Generation via Chain of Thought Reasoning with Multimodal Large Language Models Submited to ICLR 2025 [paper](https://openreview.net/forum?id=WGWoRZb0pT)
+
+FairRAG: Fair Human Generation via Fair Retrieval Augmentation CVPR 2024 [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Shrestha_FairRAG_Fair_Human_Generation_via_Fair_Retrieval_Augmentation_CVPR_2024_paper.pdf)
 
 Unified Concept Editing in Diffusion Models WACV 2024 [paper](https://arxiv.org/pdf/2308.14761)
+
+VersusDebias: Universal Zero-Shot Debiasing for Text-to-Image Models via SLM-Based Prompt Engineering and Generative Adversary arXiv 2024 [paper](https://arxiv.org/pdf/2407.19524)
 
 Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale FAccT 2023 [paper](https://arxiv.org/pdf/2211.03759)
 
