@@ -11,19 +11,17 @@
 
 ### Survey
 ### Fairness (Human Bias)
-Constructing Fair Latent Space for Intersection of Fairness and Explainability AAAI 2025 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32436)
+| Title                                                                                                                | Venue       | Paper Link                                                                                                                      | Code | Note                   |
+|----------------------------------------------------------------------------------------------------------------------|------------------------|----------------------------------------------------------------------------------------------------------------------------------|------|------------------------|
+| Constructing Fair Latent Space for Intersection of Fairness and Explainability                                      | AAAI 2025              | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32436)                                                                 | —    |  |
+| FairCoT: Enhancing Fairness in Text-to-Image Generation via Chain of Thought Reasoning with Multimodal LLMs         | ICLR 2025 (Submitted)  | [Paper](https://openreview.net/forum?id=WGWoRZb0pT)                                                                             | —    |      |
+| FairRAG: Fair Human Generation via Fair Retrieval Augmentation                                                      | CVPR 2024              | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Shrestha_FairRAG_Fair_Human_Generation_via_Fair_Retrieval_Augmentation_CVPR_2024_paper.pdf) | —    |           |
+| Unified Concept Editing in Diffusion Models                                                                         | WACV 2024              | [Paper](https://arxiv.org/pdf/2308.14761)                                                                                       |[Code](https://github.com/rohitgandikota/unified-concept-editing)    |    |
+| VersusDebias: Universal Zero-Shot Debiasing for Text-to-Image Models via SLM-Based Prompt Engineering and Adversary | arXiv 2024             | [Paper](https://arxiv.org/pdf/2407.19524)                                                                                       |[Code](https://github.com/versusdebias/versusdebias)    |             |
+| Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale                         | FAccT 2023             | [Paper](https://arxiv.org/pdf/2211.03759)                                                                                       | [Data](https://github.com/vinid/text-to-image-bias)    |         |
+| Instructing Text-to-Image Generation Models on Fairness                                                             | arXiv 2023             | [Paper](https://arxiv.org/pdf/2302.10893)                                                                                       | [Code](http://github.com/ml-research/Fair-Diffusion)    |        |
 
-FairCoT: Enhancing Fairness in Text-to-Image Generation via Chain of Thought Reasoning with Multimodal Large Language Models Submited to ICLR 2025 [paper](https://openreview.net/forum?id=WGWoRZb0pT)
 
-FairRAG: Fair Human Generation via Fair Retrieval Augmentation CVPR 2024 [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Shrestha_FairRAG_Fair_Human_Generation_via_Fair_Retrieval_Augmentation_CVPR_2024_paper.pdf)
-
-Unified Concept Editing in Diffusion Models WACV 2024 [paper](https://arxiv.org/pdf/2308.14761)
-
-VersusDebias: Universal Zero-Shot Debiasing for Text-to-Image Models via SLM-Based Prompt Engineering and Generative Adversary arXiv 2024 [paper](https://arxiv.org/pdf/2407.19524)
-
-Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale FAccT 2023 [paper](https://arxiv.org/pdf/2211.03759)
-
-Instructing Text-to-Image Generation Models on Fairness arXiv 2023 [paper](https://arxiv.org/pdf/2302.10893)
 
 ### Domain
 
@@ -37,10 +35,17 @@ Instructing Text-to-Image Generation Models on Fairness arXiv 2023 [paper](https
 | **Bias Types**  | - **Style Bias**: Synthetic images often lack realistic textures and noise<br>- **Lighting Bias**: Differences in illumination between synthetic and real images<br>- **Background Bias**: Simplified or unrealistic backgrounds in synthetic data | - **Style Bias**: textures <br> - **Device Bias**: Variations causesd by cameras or sensors<br>- **Environmental Bias**: Changes in weather, time (Low-light: illuminations, sensor's noise), or location<br> |
 
 ### Domain Generalization
-Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation. CVPR 2024 [paper](https://arxiv.org/pdf/2312.04265v5)
-SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning. CVPR 2025 [paper](https://arxiv.org/pdf/2412.04077v1)
+| Title                                                                                                                | Venue       | Paper Link                                                                                                                      | Code | Note                   |
+|-----------------------------------------------------|------------------------|---------------------------------------------|------|------------------------|
+| Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation                          | CVPR 2024              | [Paper](https://arxiv.org/pdf/2312.04265v5)                                                                 | [Code](https://github.com/w1oves/Rein)    |  |
+| SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning  | CVPR 2025 (Highlight)  | [Paper](https://arxiv.org/pdf/2412.04077v1)                                                                             | [Code](https://github.com/ysj9909/SoMA)    |      |
+
+
 
 ### Learning Bias
+| Title                                                                                                                | Venue       | Paper Link                                                                                                                      | Code | Note                   |
+|-----------------------------------------------------|------------------------|---------------------------------------------|------|------------------------|
+| Shortcut Learning in Deep Neural Networks  | Nature Machine Intelligence   | [Paper](https://arxiv.org/pdf/2004.07780)                                                                             | [Code](https://github.com/rgeirhos/shortcut-perspective)    |      |
 ### Measurement Bias
 
 
