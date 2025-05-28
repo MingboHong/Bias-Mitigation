@@ -25,15 +25,20 @@ Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at 
 
 Instructing Text-to-Image Generation Models on Fairness arXiv 2023 [paper](https://arxiv.org/pdf/2302.10893)
 
-### Domain/Dataset
-## 🧩 Comparison of Syn2Real and Real2Real Domain Adaptation
+### Domain
+
+### Domain Adaptation
+#### 🧩 Comparison of Syn2Real and Real2Real Domain Adaptation
 
 | Aspect               | (Synthetic → Real)                                                                 | (Real → Real)                                                                 |
 |----------------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | **Data Source**      | Rendered images from simulators or 3D models (e.g., ShapeNet, GTA5)                         | Real-world images captured under varying conditions (e.g., different cities, devices)   |
 | **Typical Datasets** | Syn2Real, GTA5 → Cityscapes, Virtual KITTI → KITTI                                          | Cityscapes → ACDC, Office-31, VisDA-C                                             |
-| **Bias Types**  | - **Style Bias**: Synthetic images often lack realistic textures and noise<br>- **Lighting Bias**: Differences in illumination between synthetic and real images<br>- **Background Bias**: Simplified or unrealistic backgrounds in synthetic data | - **Device Bias**: Variations causesd by cameras or sensors<br>- **Environmental Bias**: Changes in weather, time (Low-light: illuminations, sensor's noise), or location<br>- **Background Bias**: Diverse real-world backgrounds affecting object appearance |
+| **Bias Types**  | - **Style Bias**: Synthetic images often lack realistic textures and noise<br>- **Lighting Bias**: Differences in illumination between synthetic and real images<br>- **Background Bias**: Simplified or unrealistic backgrounds in synthetic data | - **Style Bias**: textures <br> - **Device Bias**: Variations causesd by cameras or sensors<br>- **Environmental Bias**: Changes in weather, time (Low-light: illuminations, sensor's noise), or location<br> |
 
+### Domain Generalization
+Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation. CVPR 2024 [paper](https://arxiv.org/pdf/2312.04265v5)
+SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning. CVPR 2025 [paper](https://arxiv.org/pdf/2412.04077v1)
 
 ### Learning Bias
 ### Measurement Bias
