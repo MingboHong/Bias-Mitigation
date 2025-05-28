@@ -11,7 +11,7 @@
 
 ### Survey
 ### Fairness (Human Bias)
-| Title                                                                                                                | Venue       | Paper Link                                                                                                                      | Code | Note                   |
+| Title                                                                                                                | Venue       | Paper                                                                                                                     | Code | Note                   |
 |----------------------------------------------------------------------------------------------------------------------|------------------------|----------------------------------------------------------------------------------------------------------------------------------|------|------------------------|
 | Constructing Fair Latent Space for Intersection of Fairness and Explainability                                      | AAAI 2025              | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32436)                                                                 | —    |  |
 | FairCoT: Enhancing Fairness in Text-to-Image Generation via Chain of Thought Reasoning with Multimodal LLMs         | ICLR 2025 (Submitted)  | [Paper](https://openreview.net/forum?id=WGWoRZb0pT)                                                                             | —    |      |
@@ -35,7 +35,7 @@
 | **Bias Types**  | - **Style Bias**: Synthetic images often lack realistic textures and noise<br>- **Lighting Bias**: Differences in illumination between synthetic and real images<br>- **Background Bias**: Simplified or unrealistic backgrounds in synthetic data | - **Style Bias**: textures <br> - **Device Bias**: Variations causesd by cameras or sensors<br>- **Environmental Bias**: Changes in weather, time (Low-light: illuminations, sensor's noise), or location<br> |
 
 ### Domain Generalization
-| Title                                                                                                                | Venue       | Paper Link                                                                                                                      | Code | Note                   |
+| Title                                                                                                                | Venue       | Paper                                                                                                                      | Code | Note                   |
 |-----------------------------------------------------|------------------------|---------------------------------------------|------|------------------------|
 | Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation                          | CVPR 2024              | [Paper](https://arxiv.org/pdf/2312.04265v5)                                                                 | [Code](https://github.com/w1oves/Rein)    |  |
 | SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning  | CVPR 2025 (Highlight)  | [Paper](https://arxiv.org/pdf/2412.04077v1)                                                                             | [Code](https://github.com/ysj9909/SoMA)    |      |
@@ -43,7 +43,7 @@
 
 
 ### Learning Bias
-| Title                                                                                                                | Venue       | Paper Link                                                                                                                      | Code | Note                   |
+| Title                                                                                                                | Venue       | Paper                                                                                                                      | Code | Note                   |
 |-----------------------------------------------------|------------------------|---------------------------------------------|------|------------------------|
 | Shortcut Learning in Deep Neural Networks  | Nature Machine Intelligence   | [Paper](https://arxiv.org/pdf/2004.07780)                                                                             | [Code](https://github.com/rgeirhos/shortcut-perspective)    |      |
 ### Measurement Bias
