@@ -46,7 +46,15 @@
 | Title                                                                                                                | Venue       | Paper                                                                                                                      | Code | Note                   |
 |-----------------------------------------------------|------------------------|---------------------------------------------|------|------------------------|
 | Shortcut Learning in Deep Neural Networks  | Nature Machine Intelligence   | [Paper](https://arxiv.org/pdf/2004.07780)                                                                             | [Code](https://github.com/rgeirhos/shortcut-perspective)    |      |
-### Measurement Bias
+| Invariant Risk Minimization  | arXiv   | [Paper](https://arxiv.org/pdf/1907.02893)                                                                             | [Code](https://github.com/facebookresearch/InvariantRiskMinimization)    |      |
+| An Empirical Study of Invariant Risk Minimization on Deep Models  | ICML2021 workshop   | [Paper](https://www.gatsby.ucl.ac.uk/~balaji/udl2021/accepted-papers/UDL2021-paper-044.pdf)                                                                             | |      |
+| Sparse Invariant Risk Minimization  | ICML2022   | [Paper](https://proceedings.mlr.press/v162/zhou22e/zhou22e.pdf)                                                                             |     |  Invariant Risk Minimization  |
+| Bayesian Invariant Risk Minimization | CVPR 2022  | [Paper](https://proceedings.mlr.press/v162/zhou22d/zhou22d.pdf)                                                                             | [Code](https://github.com/x-zho14/)    |  Invariant Risk Minimization  |
+| ZIN: When and How to Learn Invariance Without Environment Partition? | NeurIPS 2022  | [Paper](https://openreview.net/forum?id=pUPFRSxfACD)                                                                             | [Code](https://github.com/linyongver/ZIN_official)    |  Invariant Risk Minimization  |
 
+### Measurement Bias
+| Title                                                                                                                | Venue       | Paper                                                                                                                      | Code | Note                   |
+|-----------------------------------------------------|------------------------|---------------------------------------------|------|------------------------|
+| Learning from Noisy Labels with Deep Neural Networks: A Survey  | IEEE TNNLS   | [Paper](https://arxiv.org/pdf/2004.07780)                                                                             |     |   See this [Repo](https://github.com/songhwanjun/Awesome-Noisy-Labels)  |
 
 
