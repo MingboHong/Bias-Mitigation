@@ -26,6 +26,20 @@
 ### Domain
 
 ### Domain Adaptation
+| Title                                                                                                                | Venue       | Paper                                                                                                                      | Code | Note                   |
+|-----------------------------------------------------|------------------------|---------------------------------------------|------|------------------------|
+| CAT: Exploiting Inter-Class Dynamics for Domain Adaptive Object Detection                          | CVPR 2024              | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Kennerley_CAT_Exploiting_Inter-Class_Dynamics_for_Domain_Adaptive_Object_Detection_CVPR_2024_paper.pdf)                                                                 | [Code](https://github.com/w1oves/Rein)    |  |
+| Parameter Efficient Self-Supervised Geospatial Domain Adaptation  | CVPR 2024   | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Scheibenreif_Parameter_Efficient_Self-Supervised_Geospatial_Domain_Adaptation_CVPR_2024_paper.pdf)                                                                             | [Code](https://github.com/HSG-AIML/GDA)    |   GeoAI   |
+| Open-Set Domain Adaptation for Semantic Segmentation  | CVPR 2024   | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Choe_Open-Set_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2024_paper.pdf)      |[Code](https://github.com/HSG-AIML/GDA)
+
+
+
+
+
+
+
+
+
 #### 🧩 Comparison of Syn2Real and Real2Real Domain Adaptation
 
 | Aspect               | (Synthetic → Real)                                                                 | (Real → Real)                                                                 |
@@ -34,14 +48,24 @@
 | **Typical Datasets** | Syn2Real, GTA5 → Cityscapes, Virtual KITTI → KITTI                                          | Cityscapes → ACDC, Office-31, VisDA-C                                             |
 | **Bias Types**  | - **Style Bias**: Synthetic images often lack realistic textures and noise<br>- **Lighting Bias**: Differences in illumination between synthetic and real images<br>- **Background Bias**: Simplified or unrealistic backgrounds in synthetic data | - **Style Bias**: textures <br> - **Device Bias**: Variations causesd by cameras or sensors<br>- **Environmental Bias**: Changes in weather, time (Low-light: illuminations, sensor's noise), or location<br> |
 
+
+
 ### Domain Generalization
 | Title                                                                                                                | Venue       | Paper                                                                                                                      | Code | Note                   |
 |-----------------------------------------------------|------------------------|---------------------------------------------|------|------------------------|
 | Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation                          | CVPR 2024              | [Paper](https://arxiv.org/pdf/2312.04265v5)                                                                 | [Code](https://github.com/w1oves/Rein)    |  |
 | SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning  | CVPR 2025 (Highlight)  | [Paper](https://arxiv.org/pdf/2412.04077v1)                                                                             | [Code](https://github.com/ysj9909/SoMA)    |      |
+| A Simple Recipe for Language-guided Domain Generalized Segmentation  | CVPR 2024   | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Fahes_A_Simple_Recipe_for_Language-guided_Domain_Generalized_Segmentation_CVPR_2024_paper.pdf)      |[Code](https://astra-vision.github.io/FAMix/)
 
+#### Counting
+| Title                                                                                                                | Venue       | Paper                                                                                                                      | Code | Note                   |
+|-----------------------------------------------------|------------------------|---------------------------------------------|------|------------------------|
+| Single Domain Generalization for Crowd Counting  | CVPR 2024   | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Peng_Single_Domain_Generalization_for_Crowd_Counting_CVPR_2024_paper.pdf)      |[Code](https://github.com/Shimmer93/MPCount)
 
-
+#### ReID
+| Title                                                                                                                | Venue       | Paper                                                                                                                      | Code | Note                   |
+|-----------------------------------------------------|------------------------|---------------------------------------------|------|------------------------|
+| Day-Night Cross-domain Vehicle Re-identification  | CVPR 2024   | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Day-Night_Cross-domain_Vehicle_Re-identification_CVPR_2024_paper.pdf)      |[Code](https://github.com/chenjingong/DN-ReID)
 ### Learning Bias
 | Title                                                                                                                | Venue       | Paper                                                                                                                      | Code | Note                   |
 |-----------------------------------------------------|------------------------|---------------------------------------------|------|------------------------|
