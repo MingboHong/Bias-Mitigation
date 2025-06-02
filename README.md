@@ -60,9 +60,7 @@
 | Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation                          | CVPR 2024              | [Paper](https://arxiv.org/pdf/2312.04265v5)                                                                 | [Code](https://github.com/w1oves/Rein)    |  |
 | SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning  | CVPR 2025 (Highlight)  | [Paper](https://arxiv.org/pdf/2412.04077v1)                                                                             | [Code](https://github.com/ysj9909/SoMA)    |      |
 | A Simple Recipe for Language-guided Domain Generalized Segmentation  | CVPR 2024   | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Fahes_A_Simple_Recipe_for_Language-guided_Domain_Generalized_Segmentation_CVPR_2024_paper.pdf)      |[Code](https://astra-vision.github.io/FAMix/)
-
-| Collaborating Foundation Models for Domain Generalized Semantic Segmentation  | CVPR 2024   | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Benigmim_Collaborating_Foundation_Models_for_Domain_Generalized_Semantic_Segmentation_CVPR_2024_paper.pdf)      |[Code](https://github.
-com/yasserben/CLOUDS)
+| Collaborating Foundation Models for Domain Generalized Semantic Segmentation  | CVPR 2024   | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Benigmim_Collaborating_Foundation_Models_for_Domain_Generalized_Semantic_Segmentation_CVPR_2024_paper.pdf)     |[Code](https://github.com/yasserben/CLOUDS)
 | Unified Language-driven Zero-shot Domain Adaptation  | CVPR 2024   | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Unified_Language-driven_Zero-shot_Domain_Adaptation_CVPR_2024_paper.pdf)      |[Code](https://senqiaoyang.com/project/ulda/)
 | Unbiased Faster R-CNN for Single-source Domain Generalized Object Detection  | CVPR 2024   | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Unbiased_Faster_R-CNN_for_Single-source_Domain_Generalized_Object_Detection_CVPR_2024_paper.pdf)      |
 
