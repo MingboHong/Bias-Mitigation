@@ -33,6 +33,9 @@
 | Open-Set Domain Adaptation for Semantic Segmentation  | CVPR 2024   | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Choe_Open-Set_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2024_paper.pdf)      |[Code](https://github.com/HSG-AIML/GDA)
 | Stable Neighbor Denoising for Source-free Domain Adaptive Segmentation  | CVPR 2024   | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Stable_Neighbor_Denoising_for_Source-free_Domain_Adaptive_Segmentation_CVPR_2024_paper.pdf)      |[Code](https://github.com/DZhaoXd/SND)
 | Boosting Object Detection with Zero-Shot Day-Night Domain Adaptation  | CVPR 2024   | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Du_Boosting_Object_Detection_with_Zero-Shot_Day-Night_Domain_Adaptation_CVPR_2024_paper.pdf)      |[Code](https://github.com/ZPDu/DAI-Net)
+| UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement  | ICCV 2025   | [Paper](https://arxiv.org/pdf/2507.00721)      |Code
+
+
 
 
 
